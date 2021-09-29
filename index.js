@@ -1,4 +1,4 @@
-/* SCRIPT BY BERNKASTEL & shiro*/
+/* SCRIPT BY YOUR MOM*/
 'use strict'
 /*
 ==========HOW TO USE============
